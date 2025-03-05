@@ -1,0 +1,7 @@
+fastai==2.7.18
+torch==2.5.1
+torchvision==0.20.1
+streamlit
+scikit-image
+Pillow
+numpy
